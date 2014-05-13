@@ -10,7 +10,7 @@ Level Order Traversal in Spiral form
 
  
  Time: O(n)
- Sapce: O(n), since in the worst case all the nodes on the entire last level could be in the queue simulteneously
+ Sapce: O(n)
  */
 
 #include <iostream>
